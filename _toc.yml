@@ -1,0 +1,41 @@
+
+# 1 - Processamento de Sinais e Ferramentas em Python
+# 2 - Extração de Features usando PDS
+# 3 - Filtragem e Processamento: Análise de sinais 
+# 4 - Processamento de Sinais para Redes Neurais e Aplicações Avançadas
+
+format: jb-book
+root: intro.md
+chapters:
+- file: Processamento_de_Sinais.ipynb
+# sections:
+  #   - file: Processamento_de_Sinais
+  #   - file: Matrix_Algebra
+  #   - file: Solving_Systems    
+- file: Extração_de_Features_usando_PDS.
+# - file: Linear_Transformations
+#   sections:
+#     - file: Matrix_Representations
+#     - file: Planar_Transformations
+#     - file: Applications_LT
+# - file: Inner_Products
+#   sections:
+#     - file: Orthogonalization
+#     - file: QR_Factorization
+#     - file: Orthogonal_Subspaces
+#     - file: Least_Squares_Solutions    
+#     - file: Projections
+#     - file: Applications_IP
+# - file: Eigenvalues
+#   sections:
+#     - file: Diagonalization
+#     - file: Approximating_Eigenvalues
+#     - file: Applications_EV
+# - file: Solutions
+#   sections:
+#     - file: Introduction_Solutions
+#     - file: Linear_Systems_Solutions
+#     - file: Vector_Spaces_Solutions
+#     - file: Linear_Transformations_Solutions
+#     - file: Inner_Products_Solutions
+#     - file: Eigenvalues_Solutions
